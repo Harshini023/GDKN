@@ -1,0 +1,12 @@
+.container {
+  position: relative;
+}
+
+.gray-box {
+  position: absolute;
+  z-index: 10; /* gray box will be above both green and black box */
+  background: rgb(158, 60, 60);
+  height: 60px;  
+ 
+}
+
